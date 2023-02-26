@@ -26,3 +26,7 @@ These sub-menu items will appear only when the user mouses over ‘EVENTS’ men
 Mousing out will hide the sub-menu items
 
 You will need separate function calls for each menu-item in your HTML file
+
+VERSION 1.0.1
+
+- Export command changed to 'export default'

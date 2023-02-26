@@ -20,4 +20,4 @@ function addSubMenu(menuTitle, ...theArgs) {
     menuUL.appendChild(menuLi);
   }
 }
-export { addSubMenu, showSubMenu };
+export default addSubMenu;
