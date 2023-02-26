@@ -1,0 +1,25 @@
+{
+  "name": "@montein56/add-dropdown-submenus",
+  "version": "1.0.0",
+  "description": "JAVASCRIPT: Add drop-down sub-menu items to existing Menu items in HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "dropdown",
+    "menu",
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montein56/dropdownmenu.git"
+  },
+  "author": "NM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montein56/dropdownmenu/issues"
+  },
+  "homepage": "https://github.com/montein56/dropdownmenu#readme"
+}
